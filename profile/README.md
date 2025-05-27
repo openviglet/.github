@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+At this moment, open communities are collaboratively creating incredible software. If you're eager to contribute, there are fantastic 'good first issue' opportunities waiting for you.
 
 * [Explore featured projects](https://viglet.org/)
 * Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
