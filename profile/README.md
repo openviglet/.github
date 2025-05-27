@@ -1,12 +1,10 @@
-## Hi there 👋
+![Open Source at Viglet](https://github.com/openviglet/.github/blob/main/images/banner.png) 
 
-<!--
+## Get Involved
 
-**Here are some ideas to get you started:**
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Explore featured projects](https://viglet.org/)
+* Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
+Visit [viglet.org](https://viglet.org) to learn more!
