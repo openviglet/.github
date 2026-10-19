@@ -1,4 +1,4 @@
-![Open Source at Viglet](https://github.com/openviglet/.github/blob/main/images/pure_chemestry_2026.png) 
+![Open Source at Viglet](https://github.com/openviglet/.github/blob/main/images/viglet-banner.png) 
 
 ## Get Involved
 
